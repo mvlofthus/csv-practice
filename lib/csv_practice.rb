@@ -28,6 +28,7 @@ def total_medals_per_team(olympic_data)
 
   #puts "#########"
   #ap medal_count
+  return medal_count
 end
 
 #total_medals_per_team(specific_columns)
